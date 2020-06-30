@@ -13,6 +13,7 @@ p{
 }
 section{
     height: 500px;  
+    /* display: inline; */
 }
 .padding{
     padding-bottom: 150px;
