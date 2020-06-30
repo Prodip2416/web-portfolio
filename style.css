@@ -44,3 +44,27 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-espericence{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    border-radius: 10px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#first-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#second-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
